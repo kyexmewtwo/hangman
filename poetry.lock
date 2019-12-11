@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Free Games"
+name = "freegames"
+optional = false
+python-versions = "*"
+version = "2.3.1"
+
+[metadata]
+content-hash = "96764e4a725d03c661bfb2a2dbcef17141b4b91065e686495b7e144d49a35cc2"
+python-versions = "^3.7"
+
+[metadata.hashes]
+freegames = ["46e49637904a5f010a5ed5088ac3bee416eeedfc5fc63bd43ad617fd902fbe85", "862f671190c7df77c54b4c0d6c680adba31494bb31d657e191047c4d9461383a"]
